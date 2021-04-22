@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# Test 04
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project you will have a simple **list with posts**, simulating a user with several post to be able to show your data like username, full name and random phrases. Everything with **JSON Placeholder** <br/>**by Hubert Ryan!**
 
-## Available Scripts
+## About ✍
 
-In the project directory, you can run:
+With **React Js**, using the **React Router Dom** to send to others pages, navigating to other pages of the application.
 
-### `yarn start`
+This **layout design** was completely developed from scratch to be a **realistic and original** application for anyone who is going to clone and use it.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Dependencies 🔧
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Below are all the **dependencies** that were used for this project to be completed. These three libraries were enough to make a project like this work.
 
-### `yarn test`
+- [x] Axios
+- [x] React Router Dom
+- [x] React Loader Spinner
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Getting Started 🧨
 
-### `yarn build`
+## Install 🔌
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+First, you need to **clone this project** to an ideal location on your computer. You can clone either using the github command line or by downloading directly from the browser or the WINRAR file, after that, extract it.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+$ git clone https://github.com/HubertRyanOfficial/test04
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+or
 
-### `yarn eject`
+```sh
+Download direct to you computer with WINRAR or with GitHub Desktop.
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Second, install **all necessary project dependencies** locally so that the project can run smoothly. Of course, go to the project folder before that!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+$ yarn install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+or
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```sh
+$ npm install
+```
 
-## Learn More
+## Run the project 🖥
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Now just run.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+$ yarn start
+```
 
-### Code Splitting
+or
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```sh
+$ npm start
+```
 
-### Analyzing the Bundle Size
+Now we can use and develop our project, are we going to test together with me? **Let's Go!**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Thank You 🎉
 
-### Making a Progressive Web App
+Thank you so much for reading this repository and seeing my code shares, a huge hug!
+Always keep **learning** and **updating**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p align="left">
+  <img src="https://imgur.com/RIfwVLj.png" width="200" title="Hubert Ryan">
+</p>
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+By **Hubert Ryan** 😋
