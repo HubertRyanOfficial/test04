@@ -1,0 +1,14 @@
+.homeContainer {
+  background-color: #fff;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+}
+
+.homeList {
+  background-color: #ddd;
+  width: 600px;
+  min-height: 100vh;
+  padding: 20px;
+}
