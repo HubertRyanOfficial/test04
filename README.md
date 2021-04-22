@@ -14,7 +14,6 @@ Below are all the **dependencies** that were used for this project to be complet
 
 - [x] Axios
 - [x] React Router Dom
-- [x] React Loader Spinner
 
 # Getting Started 🧨
 
