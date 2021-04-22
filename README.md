@@ -6,6 +6,8 @@ In this project you will have a simple **list with posts**, simulating a user wi
 
 With **React Js**, using the **React Router Dom** to send to others pages, navigating to other pages of the application.
 
+In this project, I used a development dependency called Prettier, obviously it is not mandatory, but it helps a lot in your code organization and makes it cleaner.
+
 This **layout design** was completely developed from scratch to be a **realistic and original** application for anyone who is going to clone and use it.
 
 ## Dependencies 🔧
